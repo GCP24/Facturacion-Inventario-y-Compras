@@ -7,3 +7,5 @@ Para poder Ejecutar este programa necesita un Servidor Web, si quiere entrar a e
 Si lo que quieres es probarlo puedes utilizar Dreamweaver y WampServer.
 
 "Proyecto para la Universidad O&M."
+
+Clave para acceder como administrador es: User: admin y password: admin.
